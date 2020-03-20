@@ -14,7 +14,7 @@ for(i=0;i<n;i++)
 {
 	a[i]=(rand()%40)+2;
 }
-b=(rand()%4)+1;
+b = (rand()%4)+1;
 for(i=0;i<n;i++)
 {
 	for(j=0;j<n-1;j++)
