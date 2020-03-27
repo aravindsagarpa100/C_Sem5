@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<time.h>
-
 void main()
 {
 int a[20],i,j,n,x[20];
@@ -32,5 +31,4 @@ avgwt=wt/n;
 avgtt=(wt+sum)/n;
 printf("Avg waiting time is: %f\n",avgwt);
 printf("Avg turnaround time is: %f\n",avgtt);
-
 }
